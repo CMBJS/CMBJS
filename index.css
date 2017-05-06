@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+body {
+  font-family: 'Raleway', 'Helvetica';
+}
+
+.btn {
+  text-transform: uppercase;
+  font-size: 110%;
+}
+
+.the-whole-thing {
+  padding-top: 100px;
+}
+
+img {
+  width: 350px;
+  padding-bottom: 20px;
+}
+
+h1 {
+  font-size: 3.5em;
+}
